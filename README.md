@@ -1,5 +1,5 @@
-# Thrive-learning
-For now I am only working with python, but I hope to use what I learn about the math behind game theory with python as a good leaping off point in C# or C++
+# Biochemical Reaction Pathways
+For now I am only working with python, but I hope to use what I learn about the math behind this model with python as a good leaping off point in C# or C++
 
 The model I want to test with methods like Runge-Kutta is this:
 
